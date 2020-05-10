@@ -14,10 +14,3 @@
 5. git 学习
 6. others
 
-```shell
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/LinearPi/python_md.git
-git push -u origin master
-```
